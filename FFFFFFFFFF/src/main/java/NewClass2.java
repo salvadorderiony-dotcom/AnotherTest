@@ -13,5 +13,6 @@ public class NewClass2 {
         System.out.println("NOOOOO");
         System.out.println("NOOOOO");
         System.out.println("NOOOOO");
+        System.out.println("YEEEEEEEEEES");
     }
 }

@@ -3,5 +3,6 @@ public class NewClass {
         System.out.println("BLA");
         System.out.println("ANOTHER BLA");
         System.out.println("ANOTHER BLA");
+        System.out.println("ANOTHER BLAAAAAAAAAAAAAA");
     }
 }
